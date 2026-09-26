@@ -61,3 +61,8 @@
 .navbar-right .sign-in:hover {
     background-color: #fff4f2;
 }
+
+.navbar-menu .active {
+    padding-bottom: 2px;
+    border-bottom: 2px solid #49557e;
+}
